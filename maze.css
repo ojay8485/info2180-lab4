@@ -68,7 +68,7 @@ neighboring elements.  Necessary to avoid giving ids to the boundary divs
 
 	top: 0;
 	left: 0;
-	height: 200px;
+height: 200px;
 	width: 150px;
 	z-index: 1;
 }
